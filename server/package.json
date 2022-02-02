@@ -1,0 +1,17 @@
+{
+  "name": "image-compress-server",
+  "version": "1.0.0",
+  "description": "Compress images in bulk for free",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "image-compress"
+  ],
+  "author": "Brijesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "compress-images": "^2.0.4"
+  }
+}
